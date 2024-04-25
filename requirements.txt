@@ -4,3 +4,4 @@ langchain_community
 langchain-text-splitters
 google-generativeai
 chromadb
+nltk
